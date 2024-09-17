@@ -8,5 +8,11 @@ My personal tmux configuration
 
 [Installer](https://github.com/tmux-plugins/tpm)
 
-```git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm```
+```bash
+
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
+echo "run '~/.tmux/plugins/tpm/tpm'" >> .tmux.conf
+
+```
 
